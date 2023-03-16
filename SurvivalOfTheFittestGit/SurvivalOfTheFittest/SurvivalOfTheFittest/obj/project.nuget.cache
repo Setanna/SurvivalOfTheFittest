@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4E7xox/TKejZ6HoHLriVHSk50JfaZEWzD4bqBArQ3/DlfRPgAh9IsHtvLvSB7kbMgww0ouXUQfWS21UYiOhOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joenh\\OneDrive\\Skrivebord\\Education\\School\\Hovedforløb 4\\Machine Learning\\SurvivalOfTheFittest\\SurvivalOfTheFittest\\SurvivalOfTheFittest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joenh\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\joenh\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\joenh\\.nuget\\packages\\scottplot\\4.1.61\\scottplot.4.1.61.nupkg.sha512",
+    "C:\\Users\\joenh\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\joenh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
